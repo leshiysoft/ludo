@@ -1,9 +1,6 @@
-mod sdl2;
-mod vulkan;
-mod rc_string;
 mod ludo;
-
 use ludo::*;
+mod rc_string;
 
 
 fn main() {
